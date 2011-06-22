@@ -1,2 +1,2 @@
 Hi quinn! It rocks that you're learning about git.
-Craig Here. Do Google Code Jam.
+Craig Here. Hope you're enjoying git.
