@@ -1,3 +1,4 @@
+we will now cause a conflict
 this is a new file
 file file file
 file file
