@@ -1,7 +1,40 @@
 I. git vs. svn
+    A. distributed vs. single repository
+    B. local commits and merging
+    C. branching
 II. Installing git
+    A. http://git-scm.org/
+    B. http://mac.github.com/
+    C. XCode
+    D. config
+        i. git config --global user.name
+        ii. git config --global user.email
+        iii. git config --global color.ui true/false
 III. Creating repositories
+    A. git init
+    B. git clone
 IV. Committing changes, adding/removing files
+    A. git status
+    B. git add
+    C. git diff
+    D. git commit
+        i. git commit -a
+    E. git log
+    F. git show
+    G. git rm
+    H. git reset --hard
+    I. git pull
+    J. conflicts
 V. Branches
+    A. git branch
+    B. git checkout
+    C. git merge
 VI. Sharing changes
+    A. sharing models
+    B. github
+        i. SSH keys
+        ii. forks
+    C. git daemon
+        i. git-daemon-export-ok
+        ii. --base-path
 VII. Fancy stuff
