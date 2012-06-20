@@ -1,3 +1,4 @@
+Hey, we're testing gitorious!
 we will now cause a conflict
 This file ain't so new anymore.
 this is a new file
