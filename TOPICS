@@ -1,7 +1,7 @@
 I. git vs. svn
     A. distributed vs. single repository
     B. local commits and merging
-    C. branching
+    C. branching, origin & master
 II. Installing git
     A. http://git-scm.org/
     B. http://mac.github.com/
@@ -17,14 +17,18 @@ IV. Committing changes, adding/removing files
     A. git status
     B. git add
     C. git diff
-    D. git commit
+    D. git show
+    E. git blame
+    F. git commit
         i. git commit -a
-    E. git log
-    F. git show
-    G. git rm
-    H. git reset --hard
-    I. git pull
-    J. conflicts
+    G. git log
+    H. git rm
+    I. git stash
+    J. git reset --hard
+    K. git pull
+    L. git fetch
+    M. remote tracking branches
+    N. conflicts
 V. Branches
     A. git branch
     B. git checkout
