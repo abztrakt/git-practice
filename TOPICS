@@ -7,9 +7,9 @@ II. Installing git
     B. http://mac.github.com/
     C. XCode
     D. config
-        i. git config --global user.name
-        ii. git config --global user.email
-        iii. git config --global color.ui true/false
+        i. git config --global user.name "Your Name"
+        ii. git config --global user.email your_email@uw.edu
+        iii. git config --global color.ui true
 III. Creating repositories
     A. git init
     B. git clone
