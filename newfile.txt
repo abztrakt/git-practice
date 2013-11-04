@@ -1,4 +1,4 @@
-Hey, we're testing gitorious!
+This is a change. Hey, we're testing gitorious!
 yaya
 we will now cause a conflict
 This file ain't so new anymore.
