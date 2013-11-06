@@ -1,6 +1,6 @@
 This is a change. Hey, we're testing gitorious!
 Hey, we're testing github!
-yaya
+yayathis is the edited line from austin:
 we will now cause a conflict
 This file ain't so new anymore.
 this is a new file
