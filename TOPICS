@@ -25,6 +25,7 @@ IV. Committing changes, adding/removing files
     G. git rm
     H. git reset --hard
     I. git pull
+    J. git stash
     J. conflicts
 V. Branches
     A. git branch
