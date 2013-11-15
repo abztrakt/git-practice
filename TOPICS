@@ -7,20 +7,21 @@ II. Installing git
     B. http://mac.github.com/
     C. XCode
     D. config
-        i. git config --global user.name
-        ii. git config --global user.email
+        i. git config --global user.name "Your Name"
+        ii. git config --global user.email email@example.com
         iii. git config --global color.ui true/false
 III. Creating repositories
     A. git init
     B. git clone
 IV. Committing changes, adding/removing files
-    A. git status
     B. git add
-    C. git diff
     D. git commit
         i. git commit -a
+    C. git diff
+    A. git status
     E. git log
     F. git show
+    X. git blame
     G. git rm
     H. git reset --hard
     I. git pull
