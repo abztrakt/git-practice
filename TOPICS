@@ -8,27 +8,24 @@ II. Installing git
     C. XCode
     D. config
         i. git config --global user.name "Your Name"
-        ii. git config --global user.email your_email@uw.edu
+        ii. git config --global user.email email@example.com
         iii. git config --global color.ui true
 III. Creating repositories
     A. git init
     B. git clone
 IV. Committing changes, adding/removing files
-    A. git status
     B. git add
-    C. git diff
-    D. git show
-    E. git blame
-    F. git commit
+   D. git commit
         i. git commit -a
-    G. git log
-    H. git rm
-    I. git stash
-    J. git reset --hard
-    K. git pull
-    L. git fetch
-    M. remote tracking branches
-    N. conflicts
+    C. git diff
+    A. git status
+    E. git log
+    F. git show
+    X. git blame
+    G. git rm
+    H. git reset --hard
+    I. git pull
+    J. conflicts
 V. Branches
     A. git branch
     B. git checkout
