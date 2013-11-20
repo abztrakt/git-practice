@@ -6,7 +6,7 @@ II. Installing git
     A. http://git-scm.org/
     B. http://mac.github.com/
     C. XCode
-    D. config
+    D. config and identity 
         i. git config --global user.name "Your Name"
         ii. git config --global user.email email@example.com
         iii. git config --global color.ui true
@@ -14,29 +14,26 @@ III. Creating repositories
     A. git init
     B. git clone
 IV. Committing changes, adding/removing files
-    B. git add
-   D. git commit
+    A. git add
+    B. git commit
         i. git commit -a
     C. git diff
-    A. git status
+    D. git status
     E. git log
     F. git show
-    X. git blame
-    G. git rm
-    H. git reset --hard
-    I. git pull
-    J. git stash
-    J. conflicts
+    G. git blame
+    H. git rm
+    I. git reset
+        i. the --hard flag
+    J. git pull
+    K. git stash
+    L. conflicts
 V. Branches
     A. git branch
     B. git checkout
     C. git merge
 VI. Sharing changes
-    A. sharing models
+    A. remotes
     B. github
         i. SSH keys
         ii. forks
-    C. git daemon
-        i. git-daemon-export-ok
-        ii. --base-path
-VII. Fancy stuff
