@@ -10,6 +10,7 @@ II. Installing git
         i. git config --global user.name "Your Name"
         ii. git config --global user.email email@example.com
         iii. git config --global color.ui true
+        iv. git config --global push.default simple
 III. Creating repositories
     A. git init
     B. git clone
