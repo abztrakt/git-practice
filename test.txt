@@ -6,3 +6,7 @@ hello world.
 
 
 I made a new feature
+this is another test
+
+
+I want to create the conflict
