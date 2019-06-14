@@ -6,5 +6,7 @@ ok, seriously - maybe this tim ? yea
 
 changin things
 
+adding a line and then committing to my branch
+
 
 booger yeah.
