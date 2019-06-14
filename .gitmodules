@@ -1,0 +1,3 @@
+[submodule "test-tasks"]
+	path = test-tasks
+	url = https://github.com/Haughar/test-tasks

@@ -15,20 +15,23 @@ III. Creating repositories
     A. git init
     B. git clone
 IV. Committing changes, adding/removing files
-    A. git add
-    B. git commit
+    A. git status
+    B. git diff
+    C. git add
+    D. git commit
         i. git commit -a
-    C. git diff
-    D. git status
     E. git log
     F. git show
     G. git blame
     H. git rm
     I. git reset
         i. the --hard flag
-    J. git pull
-    K. git stash
-    L. conflicts
+        ii. the --soft flag
+    J. git revert
+    K. git pull
+    L. git fetch
+    L. git stash
+    M. conflicts
 V. Branches
     A. git branch
     B. git checkout
@@ -38,3 +41,4 @@ VI. Sharing changes
     B. github
         i. SSH keys
         ii. forks
+        iii. pull requests

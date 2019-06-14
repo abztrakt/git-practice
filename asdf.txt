@@ -1,10 +1,8 @@
-
+This is Mingwei's change
 Start a story
 
-Hello John and Mouse!
-editing is fun. 
+Hello World!
+This is Blair
 
-fishes
-I can make changes on the web also, which seems a little strange. 
-
-yet more changes, this is fun 
+Testing more
+ 
